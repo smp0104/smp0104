@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Manikanta Praveen S</h1>
 <h3 align="center">Full Stack Software Engineer</h3>
 
-- 🔭 I’m currently working on Ecommerce applicaions of [Dell](https://www.dell.com) 
+- 🔭 I’m currently working on a Distributed Platform for [HahnAir](https://www.hahnair.com) 
 
-- 🌱 I’m currently learning **Machine Learning, ML.Net**
+- 💫 Ex-Software Engineer in [Dell](https://www.dell.com) 
 
-- 💬 Ask me about **.Net, Microservices, Reverse engineering, security and anything tech**
+- 🌱 I’m currently learning **Go**
+
+- 💬 Ask me about **.Net, Microservices, Kubernetes, Reverse engineering, security and anything tech**
 
 - 👨‍💻 Development experience especially in: .NET, Angular, React 
 
@@ -25,6 +27,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
     </a>
       <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="Typescript" width="40" height="40" /> </a>
+     <a href="https://go.dev" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go lang" width="40" height="40" /> </a>
     <a href="https://angular.io/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="40" height="40" /> </a>   
      <a href="https://react.dev/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" /> </a>
     <a href="https://babeljs.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40" style="background-color: white;" /> </a>
